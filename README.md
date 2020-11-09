@@ -11,3 +11,6 @@ python Train_cifar.py --r [total_noise] --on [proportion_of_openset_noise] --dat
 ```
 
 Note: ```r``` is the same as _ρ_ in the paper and ```on``` is the same as _(1-ω)_.
+
+#### Acknowledgements:
+Thanks to Li et al. for publishing their code for [DivideMix](https://github.com/LiJunnan1992/DivideMix). Our implementation is heavily based on their work.
