@@ -4,7 +4,7 @@
 
 **Authors:** Ragav Sachdeva, Filipe R. Cordeiro, Vasileios Belagiannis, Ian Reid, Gustavo Carneiro
 
-#### Usage
+#### Usage:
 
 ```
 python Train_cifar.py --r [total_noise] --on [proportion_of_openset_noise] --data_path [path_to_cifar10] --noisy_dataset [cifar100/imagenet32] --noise_data_dir [path_to_cifar100/imagenet32]
