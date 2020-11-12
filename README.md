@@ -2,6 +2,8 @@
 
 **Conference:** Accepted at WACV'21
 
+**Paper:** [pdf](https://arxiv.org/abs/2011.05704)
+
 **Authors:** Ragav Sachdeva, Filipe R. Cordeiro, Vasileios Belagiannis, Ian Reid, Gustavo Carneiro
 
 #### Usage:
