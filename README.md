@@ -2,7 +2,7 @@
 
 **Conference:** Accepted at WACV'21
 
-**Paper:** [pdf](https://arxiv.org/abs/2011.05704)
+**Paper:** [Arxiv](https://arxiv.org/abs/2011.05704), [Blog](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
 
 **Authors:** Ragav Sachdeva, Filipe R. Cordeiro, Vasileios Belagiannis, Ian Reid, Gustavo Carneiro
 
